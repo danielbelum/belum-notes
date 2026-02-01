@@ -9,3 +9,5 @@ Hello world, this is my digital garden!
 HELLO
 
 
+[[hello link link\|hello link link]]
+
