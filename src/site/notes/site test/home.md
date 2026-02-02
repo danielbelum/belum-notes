@@ -34,7 +34,7 @@ HELLO
 [[site test/one\|one]]
 [[site test/two\|two]]
 [[site test/home\|home]]
-[[site test/images\|images]]
+[[site test/Resources/images\|images]]
 [[site test/Index-x\|Index-x]]
 
 
