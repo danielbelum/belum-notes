@@ -19,6 +19,7 @@ minor update
 	- changed theme; still no graph
 - Turned EVERYTHING on
 	- Graph works, I had 'mobile' view
+- site test:
 
 
 
