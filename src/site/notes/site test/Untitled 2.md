@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site-test/untitled-2/","noteIcon":""}
+{"dg-publish":true,"dg-path":"Untitled 2.md","permalink":"/untitled-2/","noteIcon":""}
 ---
 
 

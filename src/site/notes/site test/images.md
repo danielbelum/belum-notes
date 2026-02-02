@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site-test/images/","noteIcon":""}
+{"dg-publish":true,"dg-path":"images.md","permalink":"/images/","noteIcon":""}
 ---
 
 ![logo symmetrical droplet with ripple effect.png](/img/user/Files/logo%20symmetrical%20droplet%20with%20ripple%20effect.png)

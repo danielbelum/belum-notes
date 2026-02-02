@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site-test/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Welcome to This one 
@@ -18,7 +18,7 @@ minor update
 	- turned on, no change
 	- changed theme; still no graph
 - Turned EVERYTHING on
-	- 
+	- Graph works, I had 'mobile' view
 
 
 

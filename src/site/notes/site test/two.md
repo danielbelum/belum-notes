@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site-test/two/","noteIcon":""}
+{"dg-publish":true,"dg-path":"two.md","permalink":"/two/","noteIcon":""}
 ---
 
 this is blank
