@@ -9,7 +9,11 @@
 WOWHOOW
 
 
-minor update
+minor update 
+- removed all
+- turned on home
+
+
 
 minor change
 DD
