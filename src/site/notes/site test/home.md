@@ -12,6 +12,10 @@ WOWHOOW
 minor update 
 - removed all
 - turned on home
+	- ![Pasted image 20260202084811.png](/img/user/Files/Pasted%20image%2020260202084811.png)
+	- gave me the logo
+- ![Pasted image 20260202084945.png](/img/user/Files/Pasted%20image%2020260202084945.png)
+- 
 
 
 
