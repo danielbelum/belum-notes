@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Index-x/Untitled 2.md","permalink":"/index-x/untitled-2/","noteIcon":""}
+{"dg-publish":true,"permalink":"/site-test/index-x/untitled-2/","noteIcon":""}
 ---
 
 
@@ -15,7 +15,7 @@ ws them to laugh when they see confidence
     - C initiates the second scene to welcome the familiar character
 - Then B meets D (n
 
-![Pasted image 20260128151935.png](/img/user/Files/Pasted%20image%2020260128151935.png)
+![bitcomedy.png](/img/user/Images/bitcomedy.png)
 
 
 # Obsidian Callout Syntax

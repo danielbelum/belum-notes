@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Index-x.md","permalink":"/index-x/","noteIcon":""}
+{"dg-publish":true,"permalink":"/site-test/index-x/","noteIcon":""}
 ---
 
 
 
-![360_F_1500425664_dX9qNYTnboJ37QFz0d7jwpXmbWLdoN7o.jpg](/img/user/Files/360_F_1500425664_dX9qNYTnboJ37QFz0d7jwpXmbWLdoN7o.jpg)
+![[banner.jpg\|banner.jpg]]
 [[site test/Index-x/Untitled 1\|Untitled 1]]
 [[site test/Index-x/Untitled 2\|Untitled 2]]
 [[site test/Index-x/Untitled 3\|Untitled 3]]

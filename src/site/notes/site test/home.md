@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/site-test/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Welcome to This one 
@@ -12,9 +12,9 @@ WOWHOOW
 minor update 
 - removed all
 - turned on home
-	- ![Pasted image 20260202084811.png](/img/user/Files/Pasted%20image%2020260202084811.png)
+	- ![[Pasted image 20260202084811.png\|Pasted image 20260202084811.png]]
 	- gave me the logo
-- ![Pasted image 20260202084945.png](/img/user/Files/Pasted%20image%2020260202084945.png)
+- ![[Pasted image 20260202084945.png\|Pasted image 20260202084945.png]]
 	- turned on, no change
 	- changed theme; still no graph
 - Turned EVERYTHING on
