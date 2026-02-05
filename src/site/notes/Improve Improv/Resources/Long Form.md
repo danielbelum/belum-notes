@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/improve-improv/resources/long-form/","noteIcon":""}
+---
+
+
+
+
+**Hypnotherapy (Belum Hypnosis):**  
+_"Does this get me clients I'm proud to work with repeatedly?"_
+
+**Improv (Improve Improv):**  
+_"Does this lead to performance opportunities or someone booking me to teach/perform?"_
