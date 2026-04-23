@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mdm/01-introduction/","noteIcon":""}
+{"dg-publish":true,"permalink":"/mdm/01-introduction/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Monsters, Doors & Mayhem
