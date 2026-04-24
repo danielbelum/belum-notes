@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mdm/01-introduction/","noteIcon":""}
 ---
 
+![Pasted image 20260424062136.png](/img/user/Files/Pasted%20image%2020260424062136.png)
 # Monsters, Doors & Mayhem
 ## Introduction
 

@@ -9,7 +9,7 @@
 **Version:** 0.3 — Playtest Draft | **Date:** 2026-04-12 | **Status:** System Redesign
 
 ---
-
+![Pasted image 20260424062128.png](/img/user/Files/Pasted%20image%2020260424062128.png)
 ## The Book
 
 | #   | Section                         | Contents                                                                                     |

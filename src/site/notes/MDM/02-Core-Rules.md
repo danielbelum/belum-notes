@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mdm/02-core-rules/","noteIcon":""}
 ---
 
+![Pasted image 20260424062139.png](/img/user/Files/Pasted%20image%2020260424062139.png)
 # Core Rules
 
 ---
