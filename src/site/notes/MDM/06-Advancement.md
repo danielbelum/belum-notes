@@ -62,3 +62,6 @@ That's 4 AP total. She only has 3. She takes Swimming now and saves 1 AP toward 
 - Stats above 16 are reserved for monsters and legendary figures
 
 > [!GM] Don't let advancement outpace the fiction. A character who raises ST to 16 should feel like they've earned something over many sessions, not just spent points.
+
+
+pc0607

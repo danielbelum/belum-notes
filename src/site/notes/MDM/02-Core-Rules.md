@@ -142,3 +142,4 @@ Spells and other powers bypass normal recovery limits and restore HP immediately
 | Major Heal | 2d6 HP immediately |
 | Stabilize | Stops bleed, no HP restored |
 
+pc0607

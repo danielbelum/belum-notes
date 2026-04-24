@@ -168,3 +168,6 @@
 > - Fear (3 SP) — Target rolls 3d6 under WL or flees for 3 turns
 > - Mass Fear (5 SP) — All enemies in zone roll WL or flee for 3 turns
 > *Breath weapon hits entire zone, no attack roll needed. Flies. Ancient and cunning.*
+
+
+pc0607

@@ -204,3 +204,5 @@ Shield penalty applies to the attacker's DX roll, making hits harder.
 | Overloaded | Beyond heavy | -4 DX, move only |
 
 > [!PLAYTEST] Flag: Encumbrance may be simplified or removed after playtesting. Track it once and see if it adds anything.
+
+pc0607

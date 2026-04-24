@@ -234,3 +234,6 @@ All characters start with **2 Fate Points**.
 -  Equipment selected
 -  Fate Points noted (2)
 -  Outsider disadvantage noted (1pt or 2pt)
+
+
+pc0607

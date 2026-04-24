@@ -180,4 +180,5 @@ In most settlements, someone with Powers who reveals them publicly risks:
 
 There is no unified authority regulating Powers in Varek. There is no licensing. There is only discretion, and the consequences of losing it.
 
-> [!GM] Treat revealed Powers as a social event, not just a mechanical one. When someone uses Powers in public, watch how NPCs react. That reaction is part of the world.
+
+pc0607

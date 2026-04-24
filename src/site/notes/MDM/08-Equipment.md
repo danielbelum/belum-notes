@@ -112,3 +112,6 @@ Players may choose a starting package instead of purchasing individually. Starti
 
 ### Rogue Package
 - Short sword (6sp), Dagger (2sp), Lockpicks (5sp), Leather armor (2gp), Dark clothing (1sp), Backpack, Bedroll, Waterskin, 3 days rations — ~3sp remaining
+
+
+pc0607

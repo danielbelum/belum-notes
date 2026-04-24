@@ -85,3 +85,5 @@ FP = Fate Points
 | Far | ~30m+ | Full turn |
 
 see [[MDM/05-Combat\|05-Combat]] for more about movement. 
+
+pc0607
