@@ -133,8 +133,8 @@ A full night's sleep (6+ hours). HP recovered depends on conditions:
 
 These stack. A character sleeping in a tavern bed with a friend who has Medicine gets +4 HP. A character at a proper medical station in a bed with skilled care gets the full +6 HP.
 
-### Magical Healing
-Spells bypass normal recovery limits and restore HP immediately. See [[MDM/04-Powers\|04-Powers]] for the full spell list.
+### Power Healing
+Spells and other powers bypass normal recovery limits and restore HP immediately. See [[MDM/04-Powers\|04-Powers]] for the full spell list.
 
 | Spell | Effect |
 |-------|--------|

@@ -67,3 +67,72 @@ GM and player agree on 1pt or 2pt based on how alien the character appears to na
 Non-mechanical descriptors that help the player roleplay the character. These are not rules — they are anchors.
 
 ---
+## Example Templates
+### Elf Mage
+**Outsider:** 1pt — passes as human at a glance; disposition -1 in unfamiliar communities  
+**Stats:** All 10 base +3
+**Advantages:** Powers Invested (PP = IQ, 5 starting Powers)  
+**Disadvantages:** Outsider 1pt
+
+
+---
+
+### Klingon Warrior
+
+**Outsider:** 2pt — immediately identifiable; disposition -2 always, -3 in hostile communities  
+**Stats:** All 10 base +3
+**Advantages:** Combat Reflexes (+1 initiative, never surprised, free Close move round 1)  
+**Disadvantages:** Outsider 2pt, Code of Honor 1pt  
+
+
+---
+
+### The Noir Detective
+_Human | World-weary private investigator_
+
+**Outsider:** 1pt — passes as human; carries an air of grim knowingness that makes people uneasy. Disposition -1 with authority figures (cops, officials).
+
+|ST|DX|IQ|WL|LK|HP|FP|PP|
+|---|---|---|---|---|---|---|---|
+|10|10|13|10|10|10|2|0|
+
+**Advantages:**
+
+- **Sharp Eye** — Re-roll one failed Perception or Lore check per scene
+
+**Disadvantages:**
+
+- **Outsider (1pt)** — Something's off about them
+- **Vice (1pt)** — Drinking, smoking, gambling; GM can invoke to complicate situations
+
+**Skills:** Investigation (IQ), Perception (IQ), Streetwise (IQ), Persuasion (WL), Brawling (DX)
+
+**Equipment:** Revolver, trench coat, flask, lockpicks, small notepad
+
+---
+
+### The Adventurer Archaeologist
+
+_Human | Brains-and-brawn relic hunter_
+
+**Outsider:** 1pt — passes as human; reputation precedes them. Disposition +1 with scholars, -1 with criminal fences and corrupt officials.
+
+|ST|DX|IQ|WL|LK|HP|FP|PP|
+|---|---|---|---|---|---|---|---|
+|12|11|12|10|10|12|2|0|
+
+**Advantages:**
+
+- **Resourceful** — Once per session, improvise a solution with whatever's at hand (GM must allow a creative approach)
+
+**Disadvantages:**
+
+- **Outsider (1pt)** — Foreigner everywhere they go
+- **Phobia (1pt)** — Pick one (snakes, heights, enclosed spaces); GM can invoke
+
+**Skills:** Lore Ancient Civilizations (IQ), Athletics (ST), Brawling (DX), Perception (IQ), Persuasion (WL)
+
+**Equipment:** Whip or revolver, leather jacket, satchel, rope, field journal
+
+---
+

@@ -57,10 +57,10 @@ Advantages and disadvantages use a separate **Advantage Points (AP)** economy:
 #### Powers Advantages
 *Determine your Power Points capacity. See Step 6.*
 
-| Advantage | AP Cost | Effect |
-|-----------|---------|--------|
-| **Powers Inclined** | 1 | You have an affinity for Powers. Gain PP = half your IQ. You can select starting Powers up to your IQ minimum. |
-| **Powers Invested** | 2 | You are deeply attuned to Powers. Gain PP = your IQ. You can select starting Powers up to your IQ minimum. |
+| Advantage           | AP Cost | Effect                                                                                                              |
+| ------------------- | ------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Powers Inclined** | 1       | You have an affinity for Powers. Gain PP = half your IQ. You can select starting Powers up to half your IQ minimum. |
+| **Powers Invested** | 2       | You are deeply attuned to Powers. Gain PP = your IQ. You can select starting Powers up to your IQ minimum.          |
 
 #### Standard Advantages
 
